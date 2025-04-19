@@ -1,0 +1,5 @@
+Hello, welcome to Python programming.
+File handling is an important concept.
+This script will process text data.
+Counting words and converting text.
+Writing results to another file.
